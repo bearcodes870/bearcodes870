@@ -3,7 +3,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
 
 ### Frontend  
 <div align="center">  
