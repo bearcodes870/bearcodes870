@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870)](https://github.com/bearcodes870/github-readme-stats)
+
 <!--
 **bearcodes870/bearcodes870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
