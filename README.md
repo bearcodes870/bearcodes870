@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870?theme=vue-dark)](https://github.com/bearcodes870/github-readme-stats)
+[![Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870?theme=dark)](https://github.com/bearcodes870/github-readme-stats)
 
 
 <!--
