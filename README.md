@@ -1,5 +1,3 @@
-[![Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -46,4 +44,6 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+
+[![Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
