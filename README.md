@@ -56,7 +56,7 @@ My name is Bear - Full Stack developer from Toronto, Canada.
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 </div>
 
-<img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-4479A1?style=flat-square&logo=socket-dot-io&logoColor=white" />
+<img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-4479A1?style=flat-square&logo=socket.io&logoColor=white" />
 </div>
 
 
