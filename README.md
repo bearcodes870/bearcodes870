@@ -66,7 +66,7 @@ My name is Bear - Full Stack developer from Toronto, Canada.
 
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /> 
+<img alt="Google Cloud" src="https://img.shields.io/badge/-googlecloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> 
 
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  
