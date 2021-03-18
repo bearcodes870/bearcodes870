@@ -3,13 +3,12 @@
 <h3> Full Stack developer from Toronto, Canada </h3>
 </div>
 
-<div align="center">
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-</div>
+
 
 ## Technologies  
 <table><tr><td valign="top" width="33%">
