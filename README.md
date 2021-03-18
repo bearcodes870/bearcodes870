@@ -76,9 +76,9 @@ My name is Bear - Full Stack developer from Toronto, Canada.
 
 <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
  
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F05032?style=flat-square&logo=figma&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-FF24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-<img alt="InVision" src="https://img.shields.io/badge/-InVision-F05032?style=flat-square&logo=InVision&logoColor=white" />
+<img alt="InVision" src="https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=InVision&logoColor=white" />
 
 </td></tr></table>  
 
