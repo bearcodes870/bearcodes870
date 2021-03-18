@@ -2,6 +2,9 @@
 <h1> My name is Bear </h1> 
 <h3> Full Stack developer from Toronto, Canada </h3>
 </div>
+<div align="center">
+<a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 ```javascript
 class bearcodes870:
@@ -12,14 +15,14 @@ class bearcodes870:
         self.linkedin = 'https://www.linkedin.com/in/heshan-ranasinghe/'
         self.projects = {
             'current': ['Portfolio Website', 'Grocery/Recipe Planner', 'Heavy Metal Collector'],
-            'latest': 'Beanbino: Specialty Coffee Diary',
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'latest': 'Beanbino: Specialty Coffee Diary'
         }
-
-        self.architecture = ['SPA', 'MVC', 'Restful API']
+        self.approach = ['SPA', 'MVC', 'Restful API']
+        self.hobbies = {
+            'martialarts': ['Sanshou', 'Wushu' ],
+            'music': ['Drums', 'Bass']
+            'experience': ['Travel', 'Food', 'Beverages']
+        }
 
     def __str__(self):
         return self.name
@@ -126,9 +129,4 @@ if __name__ == '__main__':
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Get in Touch!
-
-<div align="center">
-<a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</div>
+===
