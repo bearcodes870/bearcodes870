@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 
 </td>
-<!-- <td valign="top" width="33%"> -->
+<td valign="top" width="25%">
 
 
 
@@ -109,7 +109,7 @@ if __name__ == '__main__':
 
 <img alt="InVision" src="https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=InVision&logoColor=white" />
 
-</td></tr></table>  
+</td><td valign="top" width="25%">Database</td></tr></table>  
 
 <br/> 
 
