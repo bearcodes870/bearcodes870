@@ -1,6 +1,7 @@
 <div align="center">
 <h1> My name is Bear </h1> 
 <h3> Full Stack developer from Toronto, Canada </h3>
+<a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ## Technologies  
