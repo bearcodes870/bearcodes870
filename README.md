@@ -53,7 +53,7 @@ My name is Bear - Full Stack developer from Toronto, Canada.
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
 
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQLL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -64,7 +64,7 @@ My name is Bear - Full Stack developer from Toronto, Canada.
 <div align="center"> 
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> 
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-430098?style=flat-square&logo=Amazon AWS&logoColor=white" /> 
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /> 
 
