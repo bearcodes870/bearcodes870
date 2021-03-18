@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
