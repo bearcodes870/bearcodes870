@@ -47,13 +47,13 @@ My name is Bear - Full Stack developer from Toronto, Canada.
 
 <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQLL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 </div>
 
 </td><td valign="top" width="33%">
