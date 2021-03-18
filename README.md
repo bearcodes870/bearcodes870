@@ -1,6 +1,9 @@
 <div align="center">
 <h1> My name is Bear </h1> 
 <h3> Full Stack developer from Toronto, Canada </h3>
+</div>
+
+<div align="center">
 {
   "firstName": "John",
   "lastName": "Smith",
