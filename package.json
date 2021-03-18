@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bearcodes870/bearcodes870/issues"
   },
-  "homepage": "https://github.com/bearcodes870/bearcodes870#readme"
+  "homepage": "https://github.com/bearcodes870/bearcodes870#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
 }
