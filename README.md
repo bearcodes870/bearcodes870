@@ -1,4 +1,4 @@
-## My Skill Set  
+## Technologies  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -45,5 +45,7 @@
 </td></tr></table>  
 
 <br/> 
+
+## Github Stats  
 
 [![Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
