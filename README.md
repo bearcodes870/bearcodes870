@@ -3,16 +3,34 @@
 <h3> Full Stack developer from Toronto, Canada </h3>
 </div>
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+```javascript
+class bearcodes870:
+
+    def __init__(self):
+        self.username = 'bearcodes870'
+        self.name = 'Heshan Ranasinghe'
+        self.linkedin = 'https://www.linkedin.com/in/heshan-ranasinghe/'
+        self.projects = {
+            'current': ['Portfolio Website', 'Grocery/Recipe Planner', 'Heavy Metal Collector'],
+            'latest': 'Beanbino: Specialty Coffee Diary',
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
+
+        self.architecture = ['SPA', 'MVC', 'Restful API']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = bearcodes870()
 ```
 
 ## Technologies  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -69,7 +87,8 @@
 </div>
 
 
-</td><td valign="top" width="33%">
+</td>
+<!-- <td valign="top" width="33%"> -->
 
 
 
