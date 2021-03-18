@@ -1,3 +1,7 @@
+# Hey - thanks for dropping by.
+
+My name is Bear - Full Stack developer from Toronto, Canada.
+
 ## Technologies  
 <table><tr><td valign="top" width="33%">
 
