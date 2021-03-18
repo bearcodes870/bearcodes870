@@ -77,20 +77,27 @@ if __name__ == '__main__':
 
 <img alt="Express.js" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-4479A1?style=flat-square&logo=socket.io&logoColor=white" />
+</div>
+
+
+</td><td valign="top" width="25%">
+
+### Database  
+<div align="center"> 
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 
-<img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-4479A1?style=flat-square&logo=socket.io&logoColor=white" />
-</div>
+<img alt="MongoDB" src="https://img.shields.io/badge/-Mongo_DB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+<img alt="SQLite3" src="https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
 
-</td>
-<td valign="top" width="25%">
 
 
+</td><td valign="top" width="25%">
 
 ### DevOps  
 <div align="center"> 
@@ -109,7 +116,7 @@ if __name__ == '__main__':
 
 <img alt="InVision" src="https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=InVision&logoColor=white" />
 
-</td><td valign="top" width="25%">Database</td></tr></table>  
+</td></tr></table>  
 
 <br/> 
 
