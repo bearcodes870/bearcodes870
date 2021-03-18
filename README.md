@@ -1,6 +1,6 @@
 <div align="center">
 <h1> My name is Bear </h1> 
-<h2> Full Stack developer from Toronto, Canada </h2>
+<h3> Full Stack developer from Toronto, Canada </h3>
 </div>
 
 ## Technologies  
@@ -56,7 +56,6 @@
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-</div>
 
 <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-4479A1?style=flat-square&logo=socket.io&logoColor=white" />
 </div>
@@ -68,6 +67,7 @@
 
 ### DevOps  
 <div align="center"> 
+
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> 
 
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
