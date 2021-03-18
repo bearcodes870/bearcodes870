@@ -1,7 +1,6 @@
-# Hey - thanks for dropping by.
-
 <div align="center">
-My name is Bear - Full Stack developer from Toronto, Canada.
+<h1> My name is Bear </h1> 
+<h2> Full Stack developer from Toronto, Canada </h2>
 </div>
 
 ## Technologies  
