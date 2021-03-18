@@ -3,6 +3,11 @@
 <h3> Full Stack developer from Toronto, Canada </h3>
 </div>
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 ## Technologies  
 <!-- <table><tr><td valign="top" width="33%"> -->
 
