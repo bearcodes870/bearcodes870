@@ -1,6 +1,6 @@
 <div align="center">
 <h1> My name is Bear </h1> 
-<h3> Full Stack developer from Toronto, Canada </h3>
+<h3> Full Stack Developer from Toronto, Canada </h3>
 </div>
 <div align="center">
 <a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -38,9 +38,9 @@ if __name__ == '__main__':
 ### Frontend  
 <div align="center">  
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" width=100 />
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> 
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" width=100 /> 
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 
@@ -128,5 +128,3 @@ if __name__ == '__main__':
 [![Bear's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-===
