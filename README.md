@@ -125,6 +125,6 @@ if __name__ == '__main__':
 
 ## Github Stats  
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark"/> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark"/> 
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> 
