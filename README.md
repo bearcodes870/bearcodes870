@@ -1,5 +1,5 @@
 <div align="center">
-<h1> My name is Bear </h1> 
+<h1> Heshan "Bear" Ranasinghe </h1> 
 <h3> Full Stack Developer from Toronto, Canada </h3>
 </div>
 <div align="center">
