@@ -17,7 +17,7 @@ class bearcodes870:
             'current': ['Portfolio Website', 'Grocery/Recipe Planner', 'Heavy Metal Collector'],
             'latest': 'Beanbino: Specialty Coffee Diary'
         }
-        self.approach = ['SPA', 'MVC', 'Restful API']
+        self.skills = ['React', 'Javascript', 'Django']
         self.hobbies = {
             'martialarts': ['Sanshou', 'Wushu' ],
             'music': ['Drums', 'Bass']
