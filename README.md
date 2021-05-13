@@ -20,7 +20,7 @@ class bearcodes870:
         self.skills = ['React', 'Javascript', 'Django']
         self.hobbies = {
             'martialarts': ['Sanshou', 'Wushu' ],
-            'music': ['Drums', 'Bass']
+            'music': ['Drums', 'Bass'],
             'experience': ['Travel', 'Food', 'Beverages']
         }
 
@@ -40,9 +40,9 @@ if __name__ == '__main__':
 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  /> 
-
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  /> 
 
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
