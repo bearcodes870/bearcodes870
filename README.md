@@ -103,7 +103,9 @@
 
 <br/> 
 
-<div align="center">  
+<div>  
+
+<div width="10%"> </div>
 
 <div width="30%"><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> </div>
 
