@@ -30,7 +30,7 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
 
-<img alt="Nest" src="https://img.shields.io/badge/-Nest-F7DF1E?style=flat-square&logo=nest&logoColor=white" /> 
+<!-- <img alt="Nest" src="https://img.shields.io/badge/-Nest-F7DF1E?style=flat-square&logo=nest&logoColor=white" />  -->
 
 
 
