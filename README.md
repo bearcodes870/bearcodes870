@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="20%">
 
 <div align="center">  
 
@@ -15,7 +15,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 <div align="center"> 
@@ -34,7 +34,7 @@
 </div>
 
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 <div align="center"> 
@@ -51,7 +51,7 @@
 
 
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 <div align="center"> 
 
@@ -66,6 +66,35 @@
 
 <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=azuredevops-&logoColor=white" />
     
+
+
+</td>
+
+<td valign="top" width="20%">
+
+<div align="center">  
+
+### ML 
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
+
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  /> 
+
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+
+</td>
+<td valign="top" width="20%">
+
+<div align="center">  
+
+### ML 
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
+
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  /> 
+
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
 </td></tr></table>  
