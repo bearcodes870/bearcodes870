@@ -2,11 +2,11 @@
 <a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-## Technologies  
 <table><tr><td valign="top" width="25%">
 
-### Frontend  
 <div align="center">  
+
+### Frontend  
 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
 
@@ -53,8 +53,10 @@
 
 </td><td valign="top" width="25%">
 
-### DevOps  
 <div align="center"> 
+
+
+### DevOps  
 
 <img alt="AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> 
 
