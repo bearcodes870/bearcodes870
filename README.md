@@ -105,9 +105,21 @@
 
 <div align="center">  
 
+<div width="10%"></div>
 
-## Github Stats  
 
-<img  height="195px" src="https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark"/><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> 
+<div width="30%"><img  height="195px" src="https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark"/></div>
+
+<div width="10%"></div>
+
+
+<div width="30%"><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> </div>
+
+
+<div width="10%"></div>
+
+
+
+
 
 </div>
