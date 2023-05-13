@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 
@@ -15,7 +15,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="33%">
 
 
 <div align="center"> 
@@ -34,7 +34,7 @@
 </div>
 
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="33%">
 
 
 <div align="center"> 
@@ -51,7 +51,17 @@
 
 
 
-</td><td valign="top" width="20%">
+</td>
+
+</tr>
+
+<tr>
+
+
+
+
+
+<td valign="top" width="33%">
 
 <div align="center"> 
 
@@ -70,7 +80,7 @@
 
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="33%">
 
 <div align="center">  
 
@@ -84,7 +94,7 @@
 
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" width="33%">
 
 <div align="center">  
 
