@@ -103,18 +103,9 @@
 
 <br/> 
 
-<table>
-
-<tr>
-
 <div><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> </div>
 
 
-<div><img  height="195px" src="https://github-readme-stats.vercel.app/api?username=bearcodes870&theme=vue-dark"/> </div>
-
-
-</tr>
-</table>  
 
 
 
