@@ -12,7 +12,7 @@
 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  /> 
 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 
 </td><td valign="top" width="25%">
@@ -64,7 +64,7 @@
 
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> 
 
-<img alt="InVision" src="https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=InVision&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=Azure Devops-&logoColor=white" />
     
 
 
