@@ -6,32 +6,6 @@
 <a href="https://linkedin.com/in/heshan-ranasinghe"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-```javascript
-class bearcodes870:
-
-    def __init__(self):
-        self.username = 'bearcodes870'
-        self.name = 'Heshan Ranasinghe'
-        self.linkedin = 'https://www.linkedin.com/in/heshan-ranasinghe/'
-        self.projects = {
-            'current': ['Portfolio Website', 'Heavy Metal Collector'],
-            'latest': 'Beanbino: Specialty Coffee Diary'
-        }
-        self.skills = ['React', 'Javascript', 'Django']
-        self.hobbies = {
-            'martialarts': ['Sanshou', 'Wushu' ],
-            'music': ['Drums', 'Bass'],
-            'experience': ['Travel', 'Food', 'Beverages']
-        }
-
-    def __str__(self):
-        return self.name
-
-
-if __name__ == '__main__':
-    me = bearcodes870()
-```
-
 ## Technologies  
 <table><tr><td valign="top" width="25%">
 
