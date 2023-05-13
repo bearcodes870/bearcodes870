@@ -64,7 +64,7 @@
 
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> 
 
-<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=Azure Devops-&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=azuredevops-&logoColor=white" />
     
 
 
