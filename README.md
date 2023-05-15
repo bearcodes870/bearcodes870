@@ -103,7 +103,7 @@
 
 <br/> 
 
-<div><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&theme=vue-dark"/> </div>
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearcodes870&size_weight=0.5&count_weight=0.5)] </div>
 
 
 
